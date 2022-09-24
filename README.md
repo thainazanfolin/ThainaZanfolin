@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 -->
 - 🌱 Jornalista e comunicadora, em transição de carreira para desenvolvimento
-- 👯 UX writr, tech writer, docs as code
+- 👯 UX writr, tech writer, docs as code, SEO, planning content, marketing
 - 📫 thaina.zanfolin@gmail.com 
 
