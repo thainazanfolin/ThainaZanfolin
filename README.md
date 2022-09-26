@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 Jornalista e comunicadora, em transição de carreira para desenvolvimento
 - 👯 UX writer, technical writer, docs as code, software documentation, SEO, planning content, marketing
 - 📫 thaina.zanfolin@gmail.com 
-- 🤯 Dê uma olhada nos meus repositórios para conferir projetos pessoais e de estudo 
+- 🤯 Veja meus repositórios para conferir projetos pessoais e de estudo 
 
 <div>
 <a href="https://github.com/thainazanfolin">
