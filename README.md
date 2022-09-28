@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 Jornalista e comunicadora, em transição de carreira para desenvolvimento
-- 👯 UX writer, technical writer, docs as code, software documentation, SEO, planning content, marketing
+- 🌱 Jornalista e comunicadora, em transição de carreira para desenvolvimento | career transition
+- 👯 current job: UX writer, technical writer, docs as code, software documentation, SEO, planning content, marketing
 - 📫 thaina.zanfolin@gmail.com 
 - 🤯 Veja meus repositórios para conferir projetos pessoais e de estudo 
 
