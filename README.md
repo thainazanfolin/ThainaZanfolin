@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🤯 em transição de carreira para desenvolvimento | career transition
 - 👯 current job: journalist, marketing, UX writer, technical writer, docs as code, software documentation, SEO, wordpress
 - 📫 thaina.zanfolin@gmail.com 
-- 
+
 <div>
 <a href="https://github.com/thainazanfolin">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainazanfolin&layout=compact&langs_count=7&theme=dracula"/>
