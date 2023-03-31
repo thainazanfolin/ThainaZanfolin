@@ -5,11 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 Jornalista e comunicadora, em transição de carreira para desenvolvimento | career transition
-- 👯 current job: UX writer, technical writer, docs as code, software documentation, SEO, planning content, marketing
+- 🤯 em transição de carreira para desenvolvimento | career transition
+- 👯 current job: journalist, marketing, UX writer, technical writer, docs as code, software documentation, SEO, wordpress
 - 📫 thaina.zanfolin@gmail.com 
-- 🤯 Veja meus repositórios para conferir projetos pessoais e de estudo 
-
+- 
 <div>
 <a href="https://github.com/thainazanfolin">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainazanfolin&layout=compact&langs_count=7&theme=dracula"/>
