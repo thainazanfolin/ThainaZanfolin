@@ -1,12 +1,13 @@
-### Oi, que bom te ver por aqui! 👋
+### welcome 👋
 
 <!--
 **thainazanfolin/ThainaZanfolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-- 🤯 em transição de carreira para desenvolvimento | career transition
-- 👯 current job: journalist, marketing, UX writer, technical writer, docs as code, software documentation, SEO, wordpress
+- 🔄 in career transition to technology | building a new career
+- 📊 current job: marketing content, strategy and analytics | UX and technical writer | learning how use Big Data for Marketing
+- 🔍 check out my main projects
 - 📫 thaina.zanfolin@gmail.com 
 
 <!--
