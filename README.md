@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔄 in career transition to technology | building a new career
-- 📊 current job: marketing content, strategy and analytics | UX and technical writer | learning how use Big Data for Marketing
+- 📊 current job: marketing content, strategy and analytics | UX and technical writer 
 - 🔍 check out my main projects
 - 📫 thaina.zanfolin@gmail.com 
 
