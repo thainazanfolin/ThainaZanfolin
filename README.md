@@ -1,15 +1,14 @@
-### welcome 👋
+### que bom te ver aqui 👋
 
 <!--
 **thainazanfolin/ThainaZanfolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-- 🔄 in career transition to technology | building a new career
-- 💻 Front-end developer: JS, React, Angular | UX and accessibility 
-- 📊 current job: marketing content, strategy and analytics | UX writer and technical writer 
-- 🔍 check out my main projects
-- 📫 thaina.zanfolin@gmail.com 
+- 💻 análise de dados e data science - foco em negócios e marketing ✨  
+- 📌 atualmente trabalhando com marketing analytics, web analytics and estratégia
+- 📊 Python, Excel & Power BI 
+- 📫 entre em contato pelo Linkedin ou thaina.zanfolin@gmail.com 
 
 <!--
 <div>
