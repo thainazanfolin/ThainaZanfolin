@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 💻 análise de dados e data science - foco em negócios e marketing ✨  
-- 📌 atualmente trabalhando com marketing analytics, web analytics and estratégia
-- 📊 Python, Excel & Power BI 
+- 💻 análise de dados e data science - negócios e marketing ✨  
+- 📌 atualmente trabalhando com marketing analytics, web analytics & estratégia
+- 📊 SQL, Python, Excel & Power BI | métricas e estatística | visualização de dados
 - 📫 entre em contato pelo Linkedin ou thaina.zanfolin@gmail.com 
 
 <!--
